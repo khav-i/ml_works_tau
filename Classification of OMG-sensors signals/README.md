@@ -78,4 +78,4 @@
 
 Без верно приложенных усилий себя не превзойти. И прилагая их, мы не без основания верим, что обязательно станем лучше!
 
-## [Тетрадка с решением](https://github.com/khav-i/ml_works_tau/blob/master/Motorica%20SkillFactory%20internship%20test%20task%202023-12/motorika.ipynb)
+## [Тетрадка с решением](https://github.com/khav-i/ml_works_tau/blob/master/Classification%20of%20OMG-sensors%20signals/motorika.ipynb)
